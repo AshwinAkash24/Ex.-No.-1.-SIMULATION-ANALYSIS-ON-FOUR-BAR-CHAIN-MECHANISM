@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 18-04-2024
 
 ## AIM:
 
@@ -53,10 +53,11 @@
 
 
 ## Output:
+![EMPDEXP-1](https://github.com/AshwinAkash24/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144979248/b387bd33-986f-44e5-9c15-e28a8e2f332d)
 
 
-### Name:
-### Register Number: 
+### Name: Ashwin Akash M
+### Register Number: 212223230024
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+ Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
